@@ -1,0 +1,9 @@
+snscrape
+
+keywords - commute, route, safe, #StandWithKerala, #KeralaFloods, submerge, supplies, rescue, urgent, donate, relief, distress
+            #keralaSos, #KeralaRains
+
+references - 
+    https://iopscience.iop.org/article/10.1088/1757-899X/803/1/012039
+    https://en.wikipedia.org/wiki/2018_Kerala_floods#:~:text=Over%20489%20people%20died%2C%2014,result%20of%20the%20intense%20flooding.
+    https://github.com/JustAnotherArchivist/snscrape
