@@ -1,7 +1,7 @@
 snscrape
 
 keywords - commute, route, safe, #StandWithKerala, #KeralaFloods, submerge, supplies, rescue, urgent, donate, relief, distress
-            #keralaSos, #KeralaRains
+            #keralaSos #KeralaRains #StandWithKerala  #OpMadad 
 
 references - 
     https://iopscience.iop.org/article/10.1088/1757-899X/803/1/012039
@@ -18,3 +18,6 @@ word cloud for each stage
 
 damage graph for each stage
 
+    10.1632,76.6413
+
+sentimental analysis
